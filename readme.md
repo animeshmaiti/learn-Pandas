@@ -20,5 +20,10 @@
     - [Pandas Project](#pandas-project)
   - [References](#references)
 <br>
+
+### Reducing Pandas memory usage
+Here are some ways to reduce memory usage of pandas dataframe:
+[pythonSpeed](https://pythonspeed.com/articles/pandas-load-less-data/)
+
 ---
 Learned from [codebasics](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=gQPy2MGIZ00LOwo0) youtube channel.
